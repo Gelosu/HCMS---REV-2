@@ -87,7 +87,7 @@
 
 
 table {
-    width: 77%;       /* Ensure the table fits the full width of the container */
+    width: 100%;       /* Ensure the table fits the full width of the container */
     border-collapse: collapse;
     margin-top: 10px;
 }
